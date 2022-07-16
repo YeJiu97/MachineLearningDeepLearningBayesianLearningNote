@@ -1,0 +1,9 @@
+
+Jay-Alammar-Transformer-blogpost
+https://jalammar.github.io/illustrated-transformer/
+
+Jay-Alammar-BERT-blog-post
+https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
+
+Kaggle-code
+https://www.kaggle.com/sachin/tensorflow-distilbert
